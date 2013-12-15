@@ -1,0 +1,41 @@
+core:
+- Outcast
+- Guest
+- Apprentice
+- Designer
+- Artist
+- Engineer
+- Architect
+
+donator:
+- Donator1
+- Donator2
+- Donator3
+- Donator4
+- Donator5
+- Donator6
+- MobDisguises
+
+staff:
+- Inspector
+- Moderator
+- Admin
+- H-Owner
+- Hermit
+- Owner
+
+donatorPrefix: '&f[&eD&f]'
+prefixes:
+  Outcast: '&8'
+  Guest: '&7'
+  Apprentice: '&f'
+  Designer: '&e'
+  Artist: '&a'
+  Engineer: '&2'
+  Architect: '&b'
+  Inspector: '&f[&3Insp&f]'
+  Moderator: '&f[&9Mod&f]'
+  Admin: '&f[&cAdmin&f]'
+  H-Owner: '&f[&0H-Owner&f]'
+  Hermit: '&f[&6Hermit&f]'
+  Owner: '&f[&4Owner&f]'

@@ -1,0 +1,17 @@
+name: KleptoChat
+main: com.kleptotech.KleptoChat
+version: 0.0.1-SNAPSHOT
+author: Klepto (dfsf5263)
+depend: [Vault]
+
+permissions:
+    kleptochat.admin:
+        description: Gives access to Klepto Chat admin commands
+        default: op
+        
+commands:
+   kc:
+      description: Klepto Chat commands.
+      usage: |
+               Commands overview:
+               /<command> reload: This command will reload the configuration file.
